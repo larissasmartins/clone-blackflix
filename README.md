@@ -10,7 +10,7 @@
 <p>1. Clean Arch;</br>
 2. Clean Code;</br>
 3. Conventional Commits;</br>
-4. To use Jquery for the carousel;</br>
+4. To use Jquery and Owl Carousel for the carousel;</br>
 5. Responsive layout: laptops, tablets and smartphones;</p>
 
 ## Layout
