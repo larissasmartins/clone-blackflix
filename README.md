@@ -15,4 +15,8 @@
 
 ## Layout
 
+</br><h3 align="center">
+  <a href="https://larissasmartins.github.io/clone-blackflix/">Click here to check it out!</a>
+</h3></br>
+
 ![cloneblackflixgif0](https://user-images.githubusercontent.com/96597131/150657049-d29dd66b-ad76-48b0-813b-236ee58dfd9f.gif)
