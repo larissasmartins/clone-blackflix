@@ -14,8 +14,9 @@
 5. Responsive layout: laptops, tablets and smartphones;</p>
 
 ## Layout
+</br><p align="center">In progress... :hourglass_flowing_sand:</p>
 
-</br><h3 align="center">
+<h3 align="center">
   <a href="https://larissasmartins.github.io/clone-blackflix/">Click here to check it out!</a>
 </h3></br>
 
